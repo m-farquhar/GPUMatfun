@@ -1,0 +1,19 @@
+To use this collection of files:
+1. Change the references to MATLAB and your compilers/libraries in the makefile to the versions you have installed
+
+2. Put these files/folders in the folder you are working in
+	laplacian.m
+	http://www.mathworks.com/matlabcentral/fileexchange/27279-laplacian-in-1d-2d-or-3d/content/laplacian.m
+	
+	ellipkkp.m & ellipjc.m
+	http://www.math.udel.edu/~driscoll/SC/
+
+	minlin libary
+	https://github.com/bcumming/minlin
+
+3. run_results will generate results and figures from the paper
+	figures and plots are based of parula colormap, so you will have to change this if not using MATLAB 2014b or later
+	
+4. to get just the table for comparisons between the CPU and GPU for computing one matrix function vector product
+	run script_shifts (only needs to be run once to save files)
+	then run run_script

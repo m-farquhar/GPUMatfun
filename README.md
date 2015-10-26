@@ -7,4 +7,4 @@ Originally developed by Megan Farquhar @ QUT, Brisbane, Australia
 
 Currently maintained by Megan Farquhar @ QUT, Brisbane, Australia. All communication about the library should be directed to Megan.
 
-See the LICENSE file for license information.
+See the LICENCE file for license information.
